@@ -39,8 +39,7 @@
 ---  
 
 ### My Projects:
-
-[![Valentine's Day](https://geraisr.github.io/Date/)
+[Valentine's Day](https://geraisr.github.io/Date/)
 
 ---  
 

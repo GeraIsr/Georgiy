@@ -9,7 +9,7 @@
 
 ---  
 
-### 🛠️ Навыки и технологии:
+### 🛠️ Skills & Technologies:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
@@ -18,12 +18,12 @@
 
 ---  
 
-### 📊 GitHub-Статистика:
+### 📊 GitHub-Statistics:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Georgiy&show_icons=true&theme=dark)  
 
 ---  
 
-### Мои навыки программирования
+### My programming skills
 
 **HTML - 80%**  
 
@@ -38,7 +38,7 @@
 
 ---  
 
-### 📬 Как связаться со мной:
+### 📬 How to contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/geoisr311)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:georgijisraelan40@gmail.com)  
 
@@ -49,6 +49,6 @@
 - [TikTok](https://www.tiktok.com/@gera_aristokrat?_t=ZM-8u32icNRXRV&_r=1)  
 - [Instagram](https://www.instagram.com/yourhandle)  
 
-⭐️ **Поддержи меня**, если тебе нравится мой код! 😉
+⭐️ **Support me**, If you like my code! 😉
 
 ---   

@@ -23,12 +23,33 @@
 
 ---  
 
-# Мои навыки программирования
+### Мои навыки программирования
 
-- **HTML**: ![80%](https://progress-bar.dev/80?title=HTML)
-- **CSS**: ![70%](https://progress-bar.dev/70?title=CSS)
-- **JavaScript**: ![5%](https://progress-bar.dev/5?title=JavaScript)
-- **MySQL**: ![5%](https://progress-bar.dev/5?title=MySQL)
+**HTML**  
+<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
+  <div style="width: 80%; background-color: #4CAF50; padding: 5px; border-radius: 5px; text-align: center; color: white;">
+    80%
+  </div>
+</div>
+
+**CSS**  
+<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
+  <div style="width: 70%; background-color: #2196F3; padding: 5px; border-radius: 5px; text-align: center; color: white;">
+    70%
+  </div>
+</div>
+
+**JavaScript**  
+<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
+  <div style="width: 5%; background-color: #f44336; padding: 5px; border-radius: 5px; text-align: center; color: white;">
+    5%
+  </div>
+</div>
+
+**MySQL**  
+<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
+  <d
+
 
 ---  
 

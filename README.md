@@ -25,7 +25,7 @@
 
 ### Мои навыки программирования
 
-**HTML**  
+**HTML - 80%**  
 <div style="background-color: #ddd; width: 100%; border-radius: 5px;">
   <div style="width: 80%; background-color: #4CAF50; padding: 5px; border-radius: 5px; text-align: center; color: white;">
     80%

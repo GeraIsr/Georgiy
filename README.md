@@ -20,14 +20,15 @@
 
 ### 📊 GitHub-Статистика:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Georgiy&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Georgiy&layout=compact&theme=dark)  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Georgiy&theme=github-dark&hide_border=true)  
 
 ---  
 
-### 🚀 GitHub Skyline (3D Визуализация активности)
-[![GitHub Skyline](https://github.com/ТВОЙ_GITHUB_НИК/skyline/blob/main/2023.png)](https://skyline.github.com/Georgiy/2023)  
+# Мои навыки программирования
+
+- **HTML**: ![80%](https://progress-bar.dev/80?title=HTML)
+- **CSS**: ![70%](https://progress-bar.dev/70?title=CSS)
+- **JavaScript**: ![5%](https://progress-bar.dev/5?title=JavaScript)
+- **MySQL**: ![5%](https://progress-bar.dev/5?title=MySQL)
 
 ---  
 

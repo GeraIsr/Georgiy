@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Georgiy
-🚀 I'm learning Frontend development
-💻 I love writing clean code and creating user-friendly interfaces
+🚀 **I'm learning Frontend development**
+💻 **I love writing clean code and creating user-friendly interfaces**
 🎯 My dream is to become a Cybersecurity Specialist in internet logging
 
 ---  

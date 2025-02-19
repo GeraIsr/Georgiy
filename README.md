@@ -26,30 +26,15 @@
 ### Мои навыки программирования
 
 **HTML - 80%**  
-<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
-  <div style="width: 80%; background-color: #4CAF50; padding: 5px; border-radius: 5px; text-align: center; color: white;">
-    80%
-  </div>
-</div>
 
-**CSS**  
-<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
-  <div style="width: 70%; background-color: #2196F3; padding: 5px; border-radius: 5px; text-align: center; color: white;">
-    70%
-  </div>
-</div>
 
-**JavaScript**  
-<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
-  <div style="width: 5%; background-color: #f44336; padding: 5px; border-radius: 5px; text-align: center; color: white;">
-    5%
-  </div>
-</div>
+**CSS - 70%**  
 
-**MySQL**  
-<div style="background-color: #ddd; width: 100%; border-radius: 5px;">
-  <d
 
+**JavaScript - 20%**  
+
+
+**MySQL - 5%**
 
 ---  
 

@@ -46,7 +46,7 @@
 
 ## 📱 Social media:  
 - [Telegram](https://t.me/yourhandle)  
-- [TikTok](https://www.tiktok.com/@https://www.tiktok.com/@gera_aristokrat?_t=ZM-8u32icNRXRV&_r=1)  
+- [TikTok](https://www.tiktok.com/@gera_aristokrat?_t=ZM-8u32icNRXRV&_r=1)  
 - [Instagram](https://www.instagram.com/yourhandle)  
 
 ⭐️ **Поддержи меня**, если тебе нравится мой код! 😉

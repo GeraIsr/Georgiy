@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm Georgiy
-🚀 ** I'm learning Frontend development**  
-💻 I love writing clean code and creating user-friendly interfacesы  
-🎯 My dream is to become a Cybersecurity Specialist in internet logging**
+🚀 I'm learning Frontend development  
+💻 I love writing clean code and creating user-friendly interfaces  
+🎯 My dream is to become a Cybersecurity Specialist in internet logging  
 
 ---  
 
@@ -25,16 +25,16 @@
 
 ### My programming skills
 
-**HTML - 80%**  
+HTML - 80%
 
 
-**CSS - 70%**  
+CSS - 70%  
 
 
-**JavaScript - 20%**  
+JavaScript - 20%  
 
 
-**MySQL - 5%**
+MySQL - 5%
 
 ---  
 

@@ -40,9 +40,9 @@
 
 ### My Projects:
 
-[Valentine's Day (1)](https://geraisr.github.io/Date/)
-[Valentine's Day (2)](https://geraisr.github.io/Frohen-Valentinstag-/)
-[Valentine's Day (3)](https://geraisr.github.io/Meine-Herz-/)
+**[Valentine's Day (1)](https://geraisr.github.io/Date/)**
+**[Valentine's Day (2)](https://geraisr.github.io/Frohen-Valentinstag-/)**
+**[Valentine's Day (3)](https://geraisr.github.io/Meine-Herz-/)**
 
 ---  
 
